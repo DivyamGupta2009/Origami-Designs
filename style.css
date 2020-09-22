@@ -1,0 +1,21 @@
+h1{
+    border:solid;
+    color: chartreuse;
+}
+
+.header{
+  background-color: red;
+  display: flex;
+  justify-content: space-between;  
+}
+.about{
+    background-color: yellow;
+    color:red;
+    border: solid;
+    display: flexbox;
+}
+.site-description{
+    border: solid;
+    background-color: cadetblue;
+    text-align: center;
+}
