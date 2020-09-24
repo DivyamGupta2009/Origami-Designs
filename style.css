@@ -1,21 +1,32 @@
 h1{
     border:solid;
-    color: chartreuse;
+    color: #ffff00;
 }
 
 .header{
   background-color: red;
   display: flex;
-  justify-content: space-between;  
+  justify-content: center; 
+  border: black; 
+}
+.menu{
+    padding: 20px;
 }
 .about{
-    background-color: yellow;
-    color:red;
+    background-color: #ffff00;
+    color: #4169e4;
     border: solid;
     display: flexbox;
 }
 .site-description{
+    margin: 10px;
+    padding: 30px;
     border: solid;
-    background-color: cadetblue;
+    background-color: #5f9ea0;
     text-align: center;
+}
+
+body{
+    color: #ffffff;
+    font-size: 17px;
 }
